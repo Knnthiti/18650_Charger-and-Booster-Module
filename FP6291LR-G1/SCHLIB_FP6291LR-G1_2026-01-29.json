@@ -1,0 +1,41 @@
+{
+  "head": {
+    "docType": "2",
+    "editorVersion": "6.5.40",
+    "c_para": {
+      "pre": "U?",
+      "name": "FP6291LR-G1",
+      "package": "SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR",
+      "Supplier": "LCSC",
+      "Manufacturer": "Advanced Analog Technology(类比)",
+      "Manufacturer Part": "FP6291LR-G12",
+      "Supplier Part": "C18701",
+      "JLCPCB Part Class": "Extended Part"
+    },
+    "x": 85,
+    "y": 55,
+    "puuid": "f3d2a2ecf658447dac746eb15158a989",
+    "uuid": "553709622ce74c0fac647e49589bdca0",
+    "utime": 1740984063,
+    "importFlag": 0,
+    "c_spiceCmd": null,
+    "hasIdFlag": true
+  },
+  "canvas": "CA~1000~1000~#FFFFFF~yes~#CCCCCC~5~1000~1000~line~5~pixel~5~85~55",
+  "shape": [
+    "P~show~0~1~30~35~180~gge2~0^^30~35^^M 30 35 h 20~#880000^^1~52~38~0~LX~start~~~#0000FF^^1~45~34~0~1~end~~~#0000FF^^0~47~35^^0~M 50 38 L 53 35 L 50 32",
+    "P~show~0~2~30~55~180~gge9~0^^30~55^^M 30 55 h 20~#880000^^1~52~58~0~GND~start~~~#0000FF^^1~45~54~0~2~end~~~#0000FF^^0~47~55^^0~M 50 58 L 53 55 L 50 52",
+    "P~show~0~3~30~75~180~gge16~0^^30~75^^M 30 75 h 20~#880000^^1~52~78~0~FB~start~~~#0000FF^^1~45~74~0~3~end~~~#0000FF^^0~47~75^^0~M 50 78 L 53 75 L 50 72",
+    "P~show~0~4~140~75~0~gge23~0^^140~75^^M 140 75 h -20~#880000^^1~118~78~0~EN~end~~~#0000FF^^1~125~74~0~4~start~~~#0000FF^^0~123~75^^0~M 120 72 L 117 75 L 120 78",
+    "P~show~0~5~140~55~0~gge30~0^^140~55^^M 140 55 h -20~#880000^^1~118~58~0~VCC~end~~~#0000FF^^1~125~54~0~5~start~~~#0000FF^^0~123~55^^0~M 120 52 L 117 55 L 120 58",
+    "P~show~0~6~140~35~0~gge37~0^^140~35^^M 140 35 h -20~#880000^^1~118~38~0~OC~end~~~#0000FF^^1~125~34~0~6~start~~~#0000FF^^0~123~35^^0~M 120 32 L 117 35 L 120 38",
+    "R~50~15~~~70~80~#000000~1~0~none~gge44~0~"
+  ],
+  "BBox": {
+    "x": 29,
+    "y": 15,
+    "width": 112,
+    "height": 80
+  },
+  "colors": {}
+}

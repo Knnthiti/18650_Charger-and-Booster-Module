@@ -1,0 +1,5 @@
+Plotted to 'C:\Users\Knnn\Desktop\18650_Charger-and-Booster-Module\18650_Charger\18650_Charger-F_Cu.gbr'.
+Plotted to 'C:\Users\Knnn\Desktop\18650_Charger-and-Booster-Module\18650_Charger\18650_Charger-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\Knnn\Desktop\18650_Charger-and-Booster-Module\18650_Charger\18650_Charger-job.gbrjob'.
+Warning: Width correction constrained.  The width correction value must be in the range of [0.000001 mm; 0.199999 mm] for the current design rules.
+Info: Done.
